@@ -1,59 +1,83 @@
 # Sales Decline Analysis
 
+Data-driven analysis of sales decline across regions, customer types, and sales channels using Python and Power BI.
+
+---
+
 ## Project Overview
-This project analyzes sales decline across regions, customer types, and sales channels to identify key business drivers and support data-driven decision-making.
-Python is used for data cleaning and exploratory analysis, and Power BI is used to build an interactive dashboard.
+This project investigates the decline in sales across different regions, customer segments, and sales channels. Python is used for data cleaning and exploratory analysis, while Power BI creates an interactive dashboard for actionable insights.
+
+---
 
 ## Business Questions
-- Which regions contribute most to the sales decline?
-- Are returning customers or new customers more affected?
-- Which sales channels are more stable over time?
+- Which regions and customer types contribute most to sales decline?  
+- Are returning or new customers driving the decline?  
+- How do online and offline sales channels compare during the decline?
+
+---
 
 ## Dataset
-- `data/sales_decline_dataset.csv` – raw sales data
-- `data/sales_cleaned_for_powerbi.csv` – cleaned dataset prepared using Python
+- [Raw Data](data/sales_decline_dataset.csv) – original sales dataset  
+- [Cleaned Data](data/sales_cleaned_for_powerbi.csv) – preprocessed for Power BI
+
+---
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Power BI Desktop
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Jupyter Notebook**: Exploratory Data Analysis  
+- **Power BI Desktop**: Interactive dashboards
 
-## Project Workflow
-1. Data loading and inspection
-2. Data cleaning and feature engineering
-3. Exploratory Data Analysis (EDA)
-4. Export cleaned data for Power BI
-5. Interactive dashboard creation in Power BI
+---
+
+## Analysis Workflow
+1. Data loading and inspection  
+2. Data cleaning and feature engineering  
+3. Exploratory Data Analysis (EDA)  
+4. Export cleaned data for Power BI  
+5. Interactive dashboard creation
+
+---
 
 ## Key Insights
-- Sales decline is primarily driven by specific regions.
-- Returning customers show a stronger decline than new customers.
-- Online sales channels are more stable compared to offline channels.
+- Sales decline is driven mainly by specific regions.  
+- Returning customers show stronger decline than new customers.  
+- Online sales are more stable than offline sales.
+
+---
 
 ## Recommendations
-- Focus marketing efforts on regions with the largest sales decline.
-- Implement incentive programs for returning customers to boost retention.
-- Strengthen online sales channels as they show higher stability.
+- Focus on boosting sales in underperforming regions.  
+- Develop strategies to retain returning customers.  
+- Monitor offline sales performance and optimize operational processes.
 
-## Power BI Dashboard
-The dashboard includes:
-- KPI cards (Total Sales, Orders, Average Order Value)
-- Monthly sales trend
-- Sales by region
-- Sales by customer type
-- Sales by channel
-- Interactive slicers
+---
+
+## Dashboards & Visualizations
+- KPI cards: Total Sales, Orders, Average Order Value  
+- Monthly sales trend  
+- Sales by region, customer type, and channel  
+- Interactive slicers  
+
+![Example Dashboard](media/python_powerbi_sales_analysis_demo_screenshot.jpg)
+
+---
 
 ## Repository Structure
-- `data/` – raw and cleaned datasets
-- `notebooks/` – Python analysis (Jupyter Notebook)
-- `media/` – demo video of Python analysis and Power BI dashboard
+- `data/` – raw and cleaned datasets  
+- `notebooks/` – Python analysis (Jupyter Notebooks)  
+- `media/` – Power BI screenshots, videos  
+- `README.md` – project documentation
 
-## How to Run
-1. Clone the repository
-2. Open the notebook in Jupyter Notebook
-3. Install required libraries: pandas, numpy, matplotlib, seaborn
+---
+
+## Project Presentation
+[📥 Download Presentation PDF](presentation/python_powerbi_sales_analysis_demo.pdf)
+
+---
 
 ## Author
 **Seyed Mohammad Hossein Ahmadi**  
 Frankfurt am Main, Germany
+
+---
+*Data Analysis Project | Certified Data Analyst Capstone | 2025*
