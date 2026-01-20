@@ -26,9 +26,14 @@ Python is used for data cleaning and exploratory analysis, and Power BI is used 
 5. Interactive dashboard creation in Power BI
 
 ## Key Insights
-- Sales decline is primarily driven by specific regions
-- Returning customers show a stronger decline than new customers
-- Online sales channels are more stable compared to offline channels
+- Sales decline is primarily driven by specific regions.
+- Returning customers show a stronger decline than new customers.
+- Online sales channels are more stable compared to offline channels.
+
+## Recommendations
+- Focus marketing efforts on regions with the largest sales decline.
+- Implement incentive programs for returning customers to boost retention.
+- Strengthen online sales channels as they show higher stability.
 
 ## Power BI Dashboard
 The dashboard includes:
