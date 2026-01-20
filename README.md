@@ -17,6 +17,10 @@ Python is used for data cleaning and exploratory analysis, and Power BI is used 
 1. Data loading and inspection
 2. Data cleaning and feature engineering
 3. Exploratory Data Analysis (EDA)
+
+https://github.com/user-attachments/assets/9728ce38-29d6-4f12-a965-2073f4321f5b
+
+
 4. Export cleaned data for Power BI
 5. Interactive dashboard creation in Power BI
 
