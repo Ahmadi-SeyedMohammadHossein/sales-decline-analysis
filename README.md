@@ -58,7 +58,7 @@ This project investigates the decline in sales across different regions, custome
 - Sales by region, customer type, and channel  
 - Interactive slicers  
 
-[📺 Watch Demo Video](media/python_powerbi_sales_analysis_demo.mp4)
+![Example Dashboard](media/21.01.2026_00.56.27_REC.png)
 ---
 
 ## Repository Structure
