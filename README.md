@@ -58,8 +58,9 @@ This project investigates the decline in sales across different regions, custome
 - Sales by region, customer type, and channel  
 - Interactive slicers  
 
-![Example Dashboard](media/21.01.2026_00.56.27_REC.png)
+![Example Dashboard](media/21.01.2026_00.56.27_REC.png)  
 [📺 Watch Demo Video](media/python_powerbi_sales_analysis_demo.mp4)
+
 ---
 
 ## Repository Structure
@@ -70,14 +71,10 @@ This project investigates the decline in sales across different regions, custome
 
 ---
 
-## Project Presentation
-[📥 Download Presentation PDF](presentation/python_powerbi_sales_analysis_demo.pdf)
-
----
-
 ## Author
 **Seyed Mohammad Hossein Ahmadi**  
 Frankfurt am Main, Germany
 
 ---
+
 *Data Analysis Project | Certified Data Analyst Capstone | 2025*
