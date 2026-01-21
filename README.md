@@ -59,6 +59,7 @@ This project investigates the decline in sales across different regions, custome
 - Interactive slicers  
 
 ![Example Dashboard](media/21.01.2026_00.56.27_REC.png)
+[📺 Watch Demo Video](media/python_powerbi_sales_analysis_demo.mp4)
 ---
 
 ## Repository Structure
