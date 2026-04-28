@@ -96,8 +96,7 @@ sales-decline-analysis/
 
 ## 📊 Dashboard Preview
 
-![Sales Decline Analysis Dashboard](./media/dashboard_preview.png)
-
+![Sales Decline Analysis Dashboard](./media/Sales%20Decline%20Analysis%20Dashboard.png)
 > 🎬 [Watch Dashboard Demo](./media/python_powerbi_sales_analysis_demo.mp4)
 
 **Dashboard includes:**
